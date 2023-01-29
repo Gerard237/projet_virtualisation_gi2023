@@ -48,6 +48,6 @@ Puis copier la clé publique au niveau du serveur open ssh sur le domU grâce à
 192.168.1.102 est l'adresse IP du domU dans le réseau avec le dom0. Il est défini dans le script network _.sh.
 
 ### ETAPE 4
-une fois tout cela fait, , éteindre le domU et lancer le script deploy.sh au niveau du doma0.
+une fois tout cela fait, , éteindre le domU et lancer le script deploy.sh au niveau du dom0.
 
 
