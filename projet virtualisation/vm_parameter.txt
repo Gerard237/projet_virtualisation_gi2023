@@ -1,0 +1,3 @@
+newvm
+/etc/xen/newvm.cfg
+postgresql-12.0.tar.bz2
